@@ -28,10 +28,10 @@ body, html {
     background-size: cover;
     position: relative;
     
-    animation: bck 20s ease-out infinite;
+/*     animation: bck 20s ease-out infinite; */
   }
    
-  @keyframes bck {
+/*   @keyframes bck {
     0%{
         background-image: url(shoes/shoes\ 1\ \(38\).jpg);
         color: rgb(248, 248, 248);
@@ -61,7 +61,7 @@ body, html {
         text-shadow: 3px 2px 3px black;
         color: white;
     }
-  }
+  } */
   .hero-text {
     text-align: center;
    width: 1800px;
